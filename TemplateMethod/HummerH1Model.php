@@ -1,6 +1,9 @@
 <?php
 namespace TemplateMethod;
 
+/**
+ * Class HummerH1Model
+ */
 class HummerH1Model extends HummerModel {
 	private $alarmFlag = true;
 

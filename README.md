@@ -15,4 +15,5 @@
 ### 设计模式
 1.[单例模式](https://github.com/hongker/DesignPatterns/tree/master/Singleton) <br />
 2.[工厂模式](https://github.com/hongker/DesignPatterns/tree/master/FactoryPattern) <br />
-2.[抽象工厂模式](https://github.com/hongker/DesignPatterns/tree/master/AbstractFactory) <br />
+3.[抽象工厂模式](https://github.com/hongker/DesignPatterns/tree/master/AbstractFactory) <br />
+4.[模板方法模式](https://github.com/hongker/DesignPatterns/tree/master/TemplateMethod) <br />

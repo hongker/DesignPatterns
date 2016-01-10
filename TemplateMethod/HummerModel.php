@@ -1,6 +1,9 @@
 <?php
 namespace TemplateMethod;
 
+/**
+ * Abstract Class HummberModel
+ */
 abstract class HummerModel {
 	/**
 	 * start

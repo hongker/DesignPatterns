@@ -7,7 +7,8 @@ class Singleton {
 	private static $instance;
 
 	private function __construct() {
-
+		throw new Exception("Usage : Signleton::getInstance() ", 1);
+		
 	}
 
 	/**

@@ -3,5 +3,9 @@
 使用PHP实现多种设计模式
 
 ##目录
-1.[单一职责原则](https://github.com/hongker/DesignPatterns/SRP) <br />
-2.[里氏替换原则](https://github.com/hongker/DesignPatterns/LSP) <br />
+1.[单一职责原则](https://github.com/hongker/DesignPatterns/tree/master/SRP) <br />
+2.[里氏替换原则](https://github.com/hongker/DesignPatterns/tree/master/LSP) <br />
+3.[依赖倒置原则](https://github.com/hongker/DesignPatterns/tree/master/DIP) <br />
+4.[接口隔离原则](https://github.com/hongker/DesignPatterns/tree/master/IIP) <br />
+5.[迪米特法则](https://github.com/hongker/DesignPatterns/tree/master/LOD) <br />
+6.[开闭原则](https://github.com/hongker/DesignPatterns/tree/master/OCP) <br />

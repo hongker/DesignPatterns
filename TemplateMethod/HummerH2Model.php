@@ -1,6 +1,9 @@
 <?php
 namespace TemplateMethod;
 
+/**
+ * Class HummerH2Model
+ */
 class HummerH2Model extends HummerModel {
 	public function start() {
 		echo "Hummer H2 start...\n";

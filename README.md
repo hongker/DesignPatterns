@@ -18,3 +18,4 @@
 3.[抽象工厂模式](https://github.com/hongker/DesignPatterns/tree/master/AbstractFactory) <br />
 4.[模板方法模式](https://github.com/hongker/DesignPatterns/tree/master/TemplateMethod) <br />
 5.[建造者模式](https://github.com/hongker/DesignPatterns/tree/master/Builder) <br />
+6.[代理模式](https://github.com/hongker/DesignPatterns/tree/master/Proxy) <br />

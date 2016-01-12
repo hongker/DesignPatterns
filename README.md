@@ -19,3 +19,4 @@
 4.[模板方法模式](https://github.com/hongker/DesignPatterns/tree/master/TemplateMethod) <br />
 5.[建造者模式](https://github.com/hongker/DesignPatterns/tree/master/Builder) <br />
 6.[代理模式](https://github.com/hongker/DesignPatterns/tree/master/Proxy) <br />
+7.[原型模式](https://github.com/hongker/DesignPatterns/tree/master/Prototype) <br />

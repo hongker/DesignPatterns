@@ -23,4 +23,5 @@
 8.[中介者模式](https://github.com/hongker/DesignPatterns/tree/master/Mediator) <br />
 9.[命令模式](https://github.com/hongker/DesignPatterns/tree/master/Command) <br />
 10.[责任链模式](https://github.com/hongker/DesignPatterns/tree/master/Responsibility) <br />
-10.[装饰模式](https://github.com/hongker/DesignPatterns/tree/master/Decorator) <br />
+11.[装饰模式](https://github.com/hongker/DesignPatterns/tree/master/Decorator) <br />
+12.[策略模式](https://github.com/hongker/DesignPatterns/tree/master/Strategy) <br />

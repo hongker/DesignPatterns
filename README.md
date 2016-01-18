@@ -26,3 +26,4 @@
 11.[装饰模式](https://github.com/hongker/DesignPatterns/tree/master/Decorator) <br />
 12.[策略模式](https://github.com/hongker/DesignPatterns/tree/master/Strategy) <br />
 13.[适配器模式](https://github.com/hongker/DesignPatterns/tree/master/Adapter) <br />
+14.[迭代器模式](https://github.com/hongker/DesignPatterns/tree/master/Iterator) <br />

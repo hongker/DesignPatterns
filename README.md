@@ -28,3 +28,4 @@
 13.[适配器模式](https://github.com/hongker/DesignPatterns/tree/master/Adapter) <br />
 14.[迭代器模式](https://github.com/hongker/DesignPatterns/tree/master/Iterator) <br />
 15.[组合模式](https://github.com/hongker/DesignPatterns/tree/master/Composite) <br />
+16.[观察者模式](https://github.com/hongker/DesignPatterns/tree/master/Observer) <br />

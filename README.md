@@ -32,3 +32,4 @@
 17.[门面模式](https://github.com/hongker/DesignPatterns/tree/master/Facade) <br />
 18.[门面模式](https://github.com/hongker/DesignPatterns/tree/master/Visitor) <br />
 19.[解释器模式](https://github.com/hongker/DesignPatterns/tree/master/Interpreter) <br />
+20.[桥接模式](https://github.com/hongker/DesignPatterns/tree/master/Bridge) <br />

@@ -30,3 +30,4 @@
 15.[组合模式](https://github.com/hongker/DesignPatterns/tree/master/Composite) <br />
 16.[观察者模式](https://github.com/hongker/DesignPatterns/tree/master/Observer) <br />
 17.[门面模式](https://github.com/hongker/DesignPatterns/tree/master/Facade) <br />
+18.[门面模式](https://github.com/hongker/DesignPatterns/tree/master/Visitor) <br />
